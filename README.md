@@ -44,7 +44,7 @@ Run the Application:
 Save the provided Python script to a file (e.g., audio_downloader.py) and run it:
 
 bash
-python audio_downloader.py
+python py_download.py
 Input and Select:
 
 Enter the URL of the YouTube, SoundCloud, or Spotify track you wish to download.
